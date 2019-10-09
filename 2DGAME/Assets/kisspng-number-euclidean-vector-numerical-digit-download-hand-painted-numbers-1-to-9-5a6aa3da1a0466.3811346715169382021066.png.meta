@@ -1,0 +1,379 @@
+fileFormatVersion: 2
+guid: 5b56991fe1ab4834d8190a15c98243f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7992819573968965331
+    second: kisspng-number-euclidean-vector-numerical-digit-download-hand-painted-numbers-1-to-9-5a6aa3da1a0466.3811346715169382021066_0
+  - first:
+      213: -5215014843037486230
+    second: kisspng-number-euclidean-vector-numerical-digit-download-hand-painted-numbers-1-to-9-5a6aa3da1a0466.3811346715169382021066_1
+  - first:
+      213: 1475578007471316307
+    second: kisspng-number-euclidean-vector-numerical-digit-download-hand-painted-numbers-1-to-9-5a6aa3da1a0466.3811346715169382021066_2
+  - first:
+      213: 5771559296977390408
+    second: kisspng-number-euclidean-vector-numerical-digit-download-hand-painted-numbers-1-to-9-5a6aa3da1a0466.3811346715169382021066_3
+  - first:
+      213: 7895601773081096058
+    second: kisspng-number-euclidean-vector-numerical-digit-download-hand-painted-numbers-1-to-9-5a6aa3da1a0466.3811346715169382021066_4
+  - first:
+      213: 4533109483584835077
+    second: kisspng-number-euclidean-vector-numerical-digit-download-hand-painted-numbers-1-to-9-5a6aa3da1a0466.3811346715169382021066_5
+  - first:
+      213: -9094008821562122520
+    second: kisspng-number-euclidean-vector-numerical-digit-download-hand-painted-numbers-1-to-9-5a6aa3da1a0466.3811346715169382021066_6
+  - first:
+      213: -980896241909296188
+    second: kisspng-number-euclidean-vector-numerical-digit-download-hand-painted-numbers-1-to-9-5a6aa3da1a0466.3811346715169382021066_7
+  - first:
+      213: 3180675147950656288
+    second: kisspng-number-euclidean-vector-numerical-digit-download-hand-painted-numbers-1-to-9-5a6aa3da1a0466.3811346715169382021066_8
+  - first:
+      213: -6947366687787949118
+    second: kisspng-number-euclidean-vector-numerical-digit-download-hand-painted-numbers-1-to-9-5a6aa3da1a0466.3811346715169382021066_9
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-number-euclidean-vector-numerical-digit-download-hand-painted-numbers-1-to-9-5a6aa3da1a0466.3811346715169382021066_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2356
+        width: 504
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309b8a900a5aa6f40abfed6afd3f7c90
+      internalID: -7992819573968965331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-number-euclidean-vector-numerical-digit-download-hand-painted-numbers-1-to-9-5a6aa3da1a0466.3811346715169382021066_1
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 2502
+        width: 488
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af608f971648d04ca22b2648cf12d34
+      internalID: -5215014843037486230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-number-euclidean-vector-numerical-digit-download-hand-painted-numbers-1-to-9-5a6aa3da1a0466.3811346715169382021066_2
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 2568
+        width: 543
+        height: 589
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87cb52fdd5d85749b98cc88f08f546f
+      internalID: 1475578007471316307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-number-euclidean-vector-numerical-digit-download-hand-painted-numbers-1-to-9-5a6aa3da1a0466.3811346715169382021066_3
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 2657
+        width: 473
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011161361765f8f45906dc1df1494ec6
+      internalID: 5771559296977390408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-number-euclidean-vector-numerical-digit-download-hand-painted-numbers-1-to-9-5a6aa3da1a0466.3811346715169382021066_4
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1223
+        width: 634
+        height: 927
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46b4072b0275c74db3fa5f50c6cd9d5
+      internalID: 7895601773081096058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-number-euclidean-vector-numerical-digit-download-hand-painted-numbers-1-to-9-5a6aa3da1a0466.3811346715169382021066_5
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1418
+        width: 598
+        height: 779
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48370b685c19a1847b6e5a4f5faa21fb
+      internalID: 4533109483584835077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-number-euclidean-vector-numerical-digit-download-hand-painted-numbers-1-to-9-5a6aa3da1a0466.3811346715169382021066_6
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 1512
+        width: 514
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48717f5daec7dd34ea23e2718ef69e61
+      internalID: -9094008821562122520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-number-euclidean-vector-numerical-digit-download-hand-painted-numbers-1-to-9-5a6aa3da1a0466.3811346715169382021066_7
+      rect:
+        serializedVersion: 2
+        x: 2591
+        y: 1470
+        width: 598
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617479c0cbf24d048a042f5ea27752fb
+      internalID: -980896241909296188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-number-euclidean-vector-numerical-digit-download-hand-painted-numbers-1-to-9-5a6aa3da1a0466.3811346715169382021066_8
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 0
+        width: 568
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672781d1ff28fc740ab437665482d484
+      internalID: 3180675147950656288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-number-euclidean-vector-numerical-digit-download-hand-painted-numbers-1-to-9-5a6aa3da1a0466.3811346715169382021066_9
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 0
+        width: 669
+        height: 1033
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a1c8fd1aa0ea843861e06a9d845fd6
+      internalID: -6947366687787949118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
